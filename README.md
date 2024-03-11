@@ -9,16 +9,10 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
         width="50em"
         src="https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png"
       />
-      <img height="50em" width="50em" src="https://astro.js.org/astro.png" />
       <img
         height="50em"
         width="50em"
         src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"
-      />
-      <img
-        height="50em"
-        width="50em"
-        src="https://victorroblesweb.es/wp-content/uploads/2018/01/nodejs-victorroblesweb.png"
       />
       <img
         height="50em"
@@ -48,7 +42,14 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
     </div>
 
 ## 🐛 Bicheando
-
+<div>
+ <img height="50em" width="50em" src="https://astro.js.org/astro.png" />
+ <img
+        height="50em"
+        width="50em"
+        src="https://victorroblesweb.es/wp-content/uploads/2018/01/nodejs-victorroblesweb.png"
+      />
+</div>
 ## 🚀 Mis Valores
 
 - Constante busqueda para diseñar soluciones atractivas.

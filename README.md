@@ -1,15 +1,13 @@
-### Hi there 👋
-
 # ¡Hola! 👋
 
 Soy [Tu Nombre], un apasionado desarrollador frontend autodidacta con habilidades sólidas en JavaScript, React, HTML y CSS. Mi viaje en el desarrollo web comenzó de manera independiente, lo que me ha permitido cultivar un enfoque autodidacta y una mentalidad de resolución de problemas.
 
 ## Tecnologías y Herramientas
 
-- JavaScript (ES6+)
-- React.js
-- HTML5
-- CSS3 (con experiencia especial en Tailwind CSS)
+- <span style="color: #f16529;">JavaScript (ES6+)</span>
+- <span style="color: #61dafb;">React.js</span>
+- <span style="color: #e34c26;">HTML5</span>
+- <span style="color: #2965f1;">CSS3</span> (con experiencia especial en <span style="color: #38b2ac;">Tailwind CSS</span>)
 
 ## Mis Valores
 
@@ -31,20 +29,6 @@ Soy [Tu Nombre], un apasionado desarrollador frontend autodidacta con habilidade
 
 ¡Happy coding! 🚀✨
 
-<!--
-**saulvg/saulvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

@@ -10,6 +10,15 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 - <span style="color: #e34c26;">HTML5</span>
 - <span style="color: #2965f1;">CSS3</span> (con experiencia especial en <span style="color: #38b2ac;">Tailwind CSS</span>)
 
+# Tecnologías que Conozco 🚀
+
+| Tecnología           | Emoticono      |
+|----------------------|----------------|
+| JavaScript (ES6+)    | :gear:         |
+| React.js             | :atom_symbol:  |
+| HTML5                | :art:          |
+| CSS3 (Tailwind CSS)  | :nail_care:    |
+
 ## 🚀 Mis Valores
 
 - Constante busqueda para diseñar soluciones atractivas.

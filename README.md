@@ -89,7 +89,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 - <a href='https://www.instagram.com/lilbug.bug?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=='>Si te interesa mi insta </a>
 
 ## 🏢 Empresa actual 
-<a href='https://www.hiberus.com/'>Hiberus Tecnology</a>
+- <a href='https://www.hiberus.com/'>Hiberus Tecnology</a>
 
 <br/> 
 

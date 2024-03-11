@@ -2,21 +2,8 @@
 
 Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sólidas en JavaScript, React, Next, HTML y CSS, aunque interesado en muchas otras. Mi viaje en el desarrollo web comenzó de manera independiente, lo que me ha permitido cultivar un enfoque autodidacta y una mentalidad de resolución de problemas.
 
-## 💻 Tecnologías y Herramientas
-
-- <span style="color: #f16529;">JavaScript (ES6+)</span>
-- <span style="color: #61dafb;">React.js</span>
-- <span style="color: #e34c26;">Next.js</span>
-- <span style="color: #e34c26;">HTML5</span>
-- <span style="color: #2965f1;">CSS3</span> (con experiencia especial en <span style="color: #38b2ac;">Tailwind CSS</span>)
-
-# Tecnologías que Conozco 🚀
-<div
-      style="
-        display: flex;
-        gap: 10px;
-      "
-    >
+## 💻 Mi día a día
+<div>
       <img
         height="50em"
         width="50em"
@@ -59,6 +46,8 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/640px-React.svg.png"
       />
     </div>
+
+## 🐛 Bicheando
 
 ## 🚀 Mis Valores
 

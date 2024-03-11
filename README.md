@@ -17,7 +17,20 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 | JavaScript (ES6+)    | :gear:         |
 | React.js             | :atom_symbol:  |
 | HTML5                | :art:          |
-| CSS3 (Tailwind CSS)  |   <img src='https://iconos8.es/icon/CIAZz2CYc6Kc/tailwindcss' />|
+| CSS3 (Tailwind CSS)  |   
+<div
+      style="
+        background-color: #61dafb;
+        width: min-content;
+        padding: 3px 6px;
+        border-radius: 15%;
+        font-size: larger;
+        font-family: sans-serif;
+        color: #366e7e;
+      "
+    >
+      css
+    </div>              |
 
 ## 🚀 Mis Valores
 

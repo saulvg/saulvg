@@ -18,7 +18,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 | React.js             | :atom_symbol:  |
 | HTML5                | :art:          |
 | CSS3 (Tailwind CSS)  |   
-<img height='100rem' width='100rem' src='https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png'/>              |
+<img height='180em' width='180em' src='https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png'/>              |
 
 ## 🚀 Mis Valores
 
@@ -44,7 +44,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/saulvg">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saulvg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saulvg&layout=compact&langs_count=8&theme=algolia"/>
 </a>

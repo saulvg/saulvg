@@ -3,7 +3,7 @@
 Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sólidas en JavaScript, React, Next, HTML y CSS, aunque interesado en muchas otras. Mi viaje en el desarrollo web comenzó de manera independiente, lo que me ha permitido cultivar un enfoque autodidacta y una mentalidad de resolución de problemas.
 
 ## 💻 Mi día a día
-<div align="center">
+<div>
       <img
         height="50em"
         width="50em"
@@ -56,6 +56,13 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
       />
 </div>
 
+<p align="center">
+<a href="https://github.com/saulvg">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saulvg&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## 🚀 Mis Valores
 
 - Constante busqueda para diseñar soluciones atractivas.
@@ -77,11 +84,4 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 
 ¡Happy coding! 🚀✨
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/saulvg">
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saulvg&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>

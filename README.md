@@ -13,11 +13,8 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 # Tecnologías que Conozco 🚀
 <div
       style="
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: auto;
+        display: flex;
         gap: 10px;
-        place-content: center;
       "
     >
       <img

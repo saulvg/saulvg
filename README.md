@@ -20,8 +20,8 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
         src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu"
       />
       <img
-        height="60em"
-        width="60em"
+        height="70em"
+        width="70em"
         src="https://res.cloudinary.com/nomodo/image/upload/w_242,f_auto,q_auto/v1692379910/apps/typescript"
       />
       <img

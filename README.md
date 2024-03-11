@@ -54,7 +54,14 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
         width="50em"
         src="https://victorroblesweb.es/wp-content/uploads/2018/01/nodejs-victorroblesweb.png"
       />
+      <img
+        height="50em"
+        width="50em"
+        src=" https://w7.pngwing.com/pngs/385/582/png-transparent-mysql-workbench-macos-bigsur-icon.png"
+      />
+     
 </div>
+
 <br/> 
 <p align="center">
 <a href="https://github.com/saulvg">

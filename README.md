@@ -11,7 +11,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 - <span style="color: #2965f1;">CSS3</span> (con experiencia especial en <span style="color: #38b2ac;">Tailwind CSS</span>)
 
 # Tecnologías que Conozco 🚀
- <div style='display:grid; grid-template-columns:4'>
+ <div style='display:grid; grid-template-columns:4; grid-template-rows:auto'>
 <img height='50em' width='50em' src='https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png'/>  
 <img height='50em' width='50em' src='https://astro.js.org/astro.png' />
 <img height='50em' width='50em' src='https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png'/>

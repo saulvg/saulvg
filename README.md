@@ -91,6 +91,8 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 ## 🏢 Empresa actual 
 <a href='https://www.hiberus.com/'>Hiberus Tecnology</a>
 
+<br/> 
+
 ¡Gracias por visitar mi perfil! Explora mis proyectos y no dudes en ponerte en contacto para colaboraciones o discusiones técnicas.
 
 ¡Happy coding! 🚀✨

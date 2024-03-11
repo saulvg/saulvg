@@ -3,7 +3,7 @@
 Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sólidas en JavaScript, React, Next, HTML y CSS, aunque interesado en muchas otras. Mi viaje en el desarrollo web comenzó de manera independiente, lo que me ha permitido cultivar un enfoque autodidacta y una mentalidad de resolución de problemas.
 
 ## 💻 Mi día a día
-<div align="center">
+<div justify="space-around">
       <img
         height="50em"
         width="50em"

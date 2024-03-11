@@ -57,7 +57,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
       <img
         height="50em"
         width="50em"
-        src="https://w7.pngwing.com/pngs/385/582/png-transparent-mysql-workbench-macos-bigsur-icon.png"
+        src="https://futuresolutionsonline.co.uk/wp-content/uploads/2023/04/mySQL-logo.png"
       />
      
 </div>

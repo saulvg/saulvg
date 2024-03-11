@@ -50,6 +50,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
         src="https://victorroblesweb.es/wp-content/uploads/2018/01/nodejs-victorroblesweb.png"
       />
 </div>
+
 ## 🚀 Mis Valores
 
 - Constante busqueda para diseñar soluciones atractivas.
@@ -62,7 +63,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 - Certificaciones varias
 - Cursos relacionados con el mundo front-end
 
-## 🌐 Encuéntrame en
+## 🌐 Encuéntrame
 
 - <a href='https://www.linkedin.com/in/saul-vaquero-garvin-51a993225/'>Linkedin</a>
 - <a href='https://www.instagram.com/lilbug.bug?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=='>Si te interesa mi insta </a>

@@ -20,6 +20,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 | CSS3 (Tailwind CSS)  |   
 <img height='50em' width='50em' src='https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png'/>  
 <img height='50em' width='50em' src='https://miro.medium.com/v2/resize:fit:1400/1*nLbfO_PdTSpeCdZQuUr8RQ.png' />
+<img height='50em' width='50em' src='https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png'/>
 
 ## 🚀 Mis Valores
 

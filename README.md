@@ -18,7 +18,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 | React.js             | :atom_symbol:  |
 | HTML5                | :art:          |
 | CSS3 (Tailwind CSS)  |   
-<img height='180em' width='180em' src='https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png'/>              |
+<img height='80em' width='80em' src='https://diziglobalsolution.com/wp-content/uploads/2023/04/logo-css-3-1536.png'/>              |
 
 ## 🚀 Mis Valores
 

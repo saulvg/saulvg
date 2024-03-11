@@ -25,8 +25,8 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
         src="https://res.cloudinary.com/nomodo/image/upload/w_242,f_auto,q_auto/v1692379910/apps/typescript"
       />
       <img
-        height="50em"
-        width="50em"
+        height="60em"
+        width="60em"
         src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png"
       />
       <img

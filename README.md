@@ -20,13 +20,13 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
         src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu"
       />
       <img
-        height="70em"
-        width="70em"
-        src="https://res.cloudinary.com/nomodo/image/upload/w_242,f_auto,q_auto/v1692379910/apps/typescript"
+        height="50em"
+        width="50em"
+        src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png"
       />
       <img
         height="55em"
-        width="55em"
+        width="50em"
         src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png"
       />
       <img

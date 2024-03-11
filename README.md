@@ -55,14 +55,15 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
         src="https://victorroblesweb.es/wp-content/uploads/2018/01/nodejs-victorroblesweb.png"
       />
 </div>
-<hr/> 
+<br/> 
 <p align="center">
 <a href="https://github.com/saulvg">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saulvg&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<hr/>
+<br/>
+
 ## 🚀 Mis Valores
 
 - Constante busqueda para diseñar soluciones atractivas.

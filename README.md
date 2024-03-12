@@ -7,12 +7,12 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
   <img src="https://skillicons.dev/icons?i=js,ts,next,react,html,css,tailwind" />
 </p>
 
-
-## 🐛 Bicheando
-<p>
-  <abbr title='JavaScript'>
+<abbr title='JavaScript'>
   hola
   </abbr>
+## 🐛 Bicheando
+<p>
+  
   <img src="https://skillicons.dev/icons?i=nodejs,astro,angular,mysql" />
 </p>
 

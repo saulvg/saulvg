@@ -53,4 +53,14 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 
 ¡Happy coding! 🚀✨
 
+<section>
+  <details>
+    <summary>Esto funciona?</summary>
+    <p>SI</p>
+  </details>
+  <details>
+    <summary>Esto funciona?</summary>
+    <p>SI</p>
+  </details>
+</section>
 

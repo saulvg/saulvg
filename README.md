@@ -44,7 +44,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 
 <br/> 
 
-¡Gracias por visitar mi perfil! Explora mis proyectos y no dudes en ponerte en contacto para colaboraciones o discusiones técnicas.
+¡Gracias por visitar mi perfil! Puedes explora mis proyectos y no dudes en ponerte en contacto para colaboraciones o discusiones técnicas.
 
 ¡Happy coding! 🚀✨
 

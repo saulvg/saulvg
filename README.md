@@ -18,6 +18,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
   <img src="https://skillicons.dev/icons?i=vscode,windows,figma,git,github,gitlab,pnpm,powershell" />
 </p>
 
+<br/>
 <br/> 
 <p align="center">
 <a href="https://github.com/saulvg">

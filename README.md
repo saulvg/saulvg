@@ -11,8 +11,9 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 ## 🐛 Bicheando
 <p>
   <abbr title='JavaScript'>
-  <img src="https://skillicons.dev/icons?i=nodejs,astro,angular,mysql" />
+  hola
   </abbr>
+  <img src="https://skillicons.dev/icons?i=nodejs,astro,angular,mysql" />
 </p>
 
 ## 🛠️ My daily tools

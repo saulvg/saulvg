@@ -4,7 +4,7 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 
 ## 💻 Mi día a día
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css," />
+  <img src="https://skillicons.dev/icons?i=js,ts,next,react,html,css,tailwind" />
 </p>
 
 

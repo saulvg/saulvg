@@ -53,14 +53,3 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
 
 ¡Happy coding! 🚀✨
 
-<section>
-  <details open name='onlyOne'>
-    <summary>Esto funciona?</summary>
-    <p>SI</p>
-  </details>
-  <details name='onlyOne'>
-    <summary>Esto funciona?</summary>
-    <p>SI</p>
-  </details>
-</section>
-

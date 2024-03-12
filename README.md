@@ -13,10 +13,14 @@ Soy Saul, un apasionado desarrollador front-end autodidacta con habilidades sól
   <img src="https://skillicons.dev/icons?i=nodejs,astro,angular,mysql" />
 </p>
 
+## 🛠️ My daily tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,windows,figma,git,github,gitlab,pnpm,powershell" />
+</p>
+
 <br/> 
 <p align="center">
 <a href="https://github.com/saulvg">
-
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saulvg&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
